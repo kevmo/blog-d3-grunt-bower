@@ -1,0 +1,29 @@
+{
+  "name": "d3-bower-project",
+  "version": "0.0.0",
+  "description": "blog-d3-grunt-bower ===================",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevmo/blog-d3-grunt-bower.git"
+  },
+  "keywords": [
+    "d3",
+    "grunt",
+    "bower"
+  ],
+  "author": "kevmo",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kevmo/blog-d3-grunt-bower/issues"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "~0.3.0"
+  },
+  "dependencies": {
+  }
+}
